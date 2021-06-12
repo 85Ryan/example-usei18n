@@ -5197,10 +5197,10 @@ gatsby-plugin-typescript@^3.7.1:
     "@babel/runtime" "^7.14.0"
     babel-plugin-remove-graphql-queries "^3.7.1"
 
-gatsby-plugin-usei18n@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-usei18n/-/gatsby-plugin-usei18n-1.0.1.tgz#debb4cea11d4fb6ee9de138368eea9f99e8c66cf"
-  integrity sha512-nv9E99T4Ebh8sXit6QjddmpHMvk8IRAIJSelL/W4wH0zwmgRAJySHElfx9B3kAqbbJKPmIp+W5zrR1nsx1urzA==
+gatsby-plugin-usei18n@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-usei18n/-/gatsby-plugin-usei18n-1.0.2.tgz#6c0aaa5e8fe1c33cfb141714d5005af39df70a95"
+  integrity sha512-8j0gBgLE747Pm2YsE2MPT5TqxFHALkyUcWuee+7Oyv9SHgiwdranPYHcG1CW10/tzUKjOgKYCah/x1AJ5zeeSQ==
   dependencies:
     browser-lang "^0.1.0"
     gatsby-plugin-react-helmet "^4.7.1"

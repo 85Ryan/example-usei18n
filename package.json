@@ -18,7 +18,7 @@
     "gatsby-plugin-create-client-paths": "^3.7.1",
     "gatsby-plugin-mdx": "^2.7.1",
     "gatsby-plugin-react-helmet": "^4.7.1",
-    "gatsby-plugin-usei18n": "^1.0.1",
+    "gatsby-plugin-usei18n": "^1.0.2",
     "gatsby-source-filesystem": "^3.7.1",
     "gatsby-transformer-yaml": "^3.7.1",
     "react": "^17.0.2",
