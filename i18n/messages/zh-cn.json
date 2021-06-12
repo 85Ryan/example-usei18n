@@ -1,0 +1,18 @@
+{
+  "home": "首页",
+  "hello": "你好，Gatsby！",
+  "indexNote": "这是首页",
+  "transNote": "这篇文章还没有被翻译",
+  "postList": "文章列表",
+  "name": "姓名",
+  "locale": "语言",
+  "pageList": "页面列表",
+  "indexPageLink": "转到首页",
+  "secondPageLink": "转到第 2 页",
+  "thirdPageLink": "转到第 3 页",
+  "clientPage": "Client-Only 页",
+  "clientPageLink": "转到 client-only 页",
+  "thirdPage": "第 3 页",
+  "thirdNote": "这是第 3 页",
+  "notFound": "什么也没有"
+}

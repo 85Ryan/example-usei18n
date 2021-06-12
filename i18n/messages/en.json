@@ -1,0 +1,18 @@
+{
+  "home": "Home",
+  "hello": "Hello, Gatsby!",
+  "name": "Name",
+  "locale": "Locale",
+  "indexNote": "This is the Index page.",
+  "transNote": "This post hasn't been translated yet",
+  "pageList": "Page List",
+  "indexPageLink": "Link to index page",
+  "secondPageLink": "Link to second page",
+  "thirdPageLink": "Link to third page",
+  "clientPage": "Client-Only Page",
+  "clientPageLink": "Link to client-only page",
+  "thirdPage": "Third page",
+  "thirdNote": "This is the third page",
+  "postList": "Post List",
+  "notFound": "Page not found"
+}

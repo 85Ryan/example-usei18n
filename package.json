@@ -1,0 +1,29 @@
+{
+  "name": "example-usei18n",
+  "version": "1.0.0",
+  "description": "The example for gatsby-plugin-usei18n",
+  "main": "index.js",
+  "repository": "https://github.com/85Ryan/example-usei18n.git",
+  "author": "@Ryan <iii.ryan@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "dev": "gatsby develop",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@mdx-js/mdx": "^1.6.22",
+    "@mdx-js/react": "^1.6.22",
+    "gatsby": "^3.7.1",
+    "gatsby-plugin-create-client-paths": "^3.7.1",
+    "gatsby-plugin-mdx": "^2.7.1",
+    "gatsby-plugin-react-helmet": "^4.7.1",
+    "gatsby-plugin-usei18n": "^1.0.1",
+    "gatsby-source-filesystem": "^3.7.1",
+    "gatsby-transformer-yaml": "^3.7.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-helmet": "^6.1.0",
+    "react-intl": "^5.20.2"
+  }
+}
