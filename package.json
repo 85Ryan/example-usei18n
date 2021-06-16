@@ -14,11 +14,11 @@
   "dependencies": {
     "@mdx-js/mdx": "^1.6.22",
     "@mdx-js/react": "^1.6.22",
-    "gatsby": "^3.7.1",
+    "gatsby": "^3.7.2",
     "gatsby-plugin-create-client-paths": "^3.7.1",
     "gatsby-plugin-mdx": "^2.7.1",
     "gatsby-plugin-react-helmet": "^4.7.1",
-    "gatsby-plugin-usei18n": "^1.0.2",
+    "gatsby-plugin-usei18n": "^1.0.3",
     "gatsby-source-filesystem": "^3.7.1",
     "gatsby-transformer-yaml": "^3.7.1",
     "react": "^17.0.2",

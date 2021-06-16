@@ -15,7 +15,7 @@ const Layout = ({ children, pageContext }) => {
     <React.Fragment>
       <header>
         <LocalizedLink to="/">{intl.formatMessage({ id: 'home' })}</LocalizedLink>
-        <LangSelector className="langselector" path={path} toggleLanguage={handleLanguage} />
+        <LangSelector path={path} toggleLanguage={handleLanguage} />
       </header>
       <main>
         <MDXProvider components={components}>{children}</MDXProvider>
